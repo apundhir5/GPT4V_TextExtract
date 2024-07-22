@@ -1,0 +1,102 @@
+{
+    "store_name": "TRADER JOE'S",
+    "store_address": "2001 Greenville Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75206",
+    "store_number": "403",
+    "phone_number": "(469) 334-0614",
+    "hours": "OPEN 8:00AM to 9:00PM DAILY",
+    "items": [
+        {
+            "description": "R-CARROTS SHREDDED 10 OZ",
+            "price": 1.29
+        },
+        {
+            "description": "R-CUCUMBERS PERSIAN 1 LB",
+            "price": 1.99
+        },
+        {
+            "description": "TOMATOES CRUSHED NO SALT",
+            "price": 1.59
+        },
+        {
+            "description": "TOMATOES WHOLE NO SALT W/BASIL",
+            "price": 1.59
+        },
+        {
+            "description": "ORG OATS OLD FASHIONED OATMEAL",
+            "price": 2.49
+        },
+        {
+            "description": "MINI-PEARL TOMATOES",
+            "price": 3.99
+        },
+        {
+            "description": "PKG SHREDDED MOZZARELLA LITE T",
+            "price": 3.99
+        },
+        {
+            "description": "EGGS",
+            "price": 0.99
+        },
+        {
+            "description": "BANAS 1 DOZ ORGANIC BROWN",
+            "price": 2.79
+        },
+        {
+            "description": "BEANS GARBANZO",
+            "price": 0.89
+        },
+        {
+            "description": "SPROUTED OATS",
+            "price": 3.99
+        },
+        {
+            "description": "A-AVOCADOS HASS BAG CT",
+            "price": 3.99
+        },
+        {
+            "description": "A-APPLE BAG JAZZ 2 LB",
+            "price": 2.99
+        },
+        {
+            "description": "A-APPLE ENVIROPAK AXRD RED",
+            "price": 0.99
+        },
+        {
+            "description": "GROCERY NON TAXABLE",
+            "price": 0.98
+        },
+        {
+            "description": "APPLE ORGN 2490X",
+            "price": 0.49
+        },
+        {
+            "description": "BANANAS ORGANIC 3EA 0.29/EA",
+            "price": 0.87
+        },
+        {
+            "description": "CREAMY SALTED PEANUT BUTTER",
+            "price": 2.49
+        },
+        {
+            "description": "WHI WHT PITA BREAD",
+            "price": 1.69
+        },
+        {
+            "description": "GROCERY NON TAXABLE",
+            "price": 1.38
+        }
+    ],
+    "subtotal": 38.68,
+    "tax": 0.69,
+    "total": 38.68,
+    "cash": 40.0,
+    "change": 1.32,
+    "items_count": 22,
+    "date": "06-28-2014",
+    "time": "12:34PM",
+    "cashier": "Higgins, Ryan",
+    "website": "www.traderjoes.com"
+}

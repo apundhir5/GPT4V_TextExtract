@@ -1,0 +1,51 @@
+{
+    "business_info": {
+        "name": "Example Business Name or Business Owner",
+        "address": "123 Example Business Address",
+        "city": "Boston",
+        "state": "MA",
+        "zip_code": "02135"
+    },
+    "customer_info": {
+        "name": "Example Customer Name",
+        "address": "456 Example Customer Address",
+        "city": "Boston",
+        "state": "MA",
+        "zip_code": "02135"
+    },
+    "invoice_details": {
+        "invoice_number": "123456",
+        "invoice_date": "08/19/2020",
+        "due_date": "09/19/2020"
+    },
+    "items": [
+        {
+            "item": "Service",
+            "description": "Example of service in industry",
+            "unit_price": 25.0,
+            "quantity": 4.0,
+            "amount": 100.0
+        },
+        {
+            "item": "Product",
+            "description": "Example of product in industry",
+            "unit_price": 500.0,
+            "quantity": 1.0,
+            "amount": 500.0
+        },
+        {
+            "item": "Discount",
+            "description": "Example of discount in industry",
+            "unit_price": -100.0,
+            "quantity": 1.0,
+            "amount": -100.0
+        }
+    ],
+    "notes": "Provide a concise, professional description of the services, product, and discount listed above.",
+    "total_info": {
+        "subtotal": 600.0,
+        "total": 500.0,
+        "amount_paid": 0.0,
+        "balance_due": 500.0
+    }
+}

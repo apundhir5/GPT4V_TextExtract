@@ -1,0 +1,90 @@
+{
+    "vendor_name": "TRADER JOE'S",
+    "vendor_address": "2001 Greenville Ave Dallas TX 75206",
+    "items": [
+        {
+            "name": "R-CARROTS SHREDDED 10 OZ",
+            "cost": "1.29"
+        },
+        {
+            "name": "R-CUCUMBERS PERSIAN 1 LB",
+            "cost": "1.99"
+        },
+        {
+            "name": "TOMATOES CRUSHED NO SALT",
+            "cost": "1.59"
+        },
+        {
+            "name": "TOMATOES WHOLE NO SALT W/BASIL",
+            "cost": "1.59"
+        },
+        {
+            "name": "ORGANIC OLD FASHIONED OATMEAL",
+            "cost": "2.49"
+        },
+        {
+            "name": "MINI-PEARL TOMATOES.",
+            "cost": "3.99"
+        },
+        {
+            "name": "PKG SHREDDED MOZZARELLA LITE T",
+            "cost": "3.99"
+        },
+        {
+            "name": "EGGS",
+            "cost": "2.79"
+        },
+        {
+            "name": "BANANA 1 DOZ ORGANIC BROWN",
+            "cost": "0.99"
+        },
+        {
+            "name": "BEANS GARBANZO",
+            "cost": "0.89"
+        },
+        {
+            "name": "SPROUTED OG MUNG BEANS",
+            "cost": "3.99"
+        },
+        {
+            "name": "A-AVOCADOS HAS LARGE",
+            "cost": "3.99"
+        },
+        {
+            "name": "A-APPLE BAG JAZZ 2 LB",
+            "cost": "2.99"
+        },
+        {
+            "name": "A-APPLE BELLANITA XB LRG RED",
+            "cost": "0.99"
+        },
+        {
+            "name": "GROCERY NON TAXABLE",
+            "cost": "0.98"
+        },
+        {
+            "name": "P-LEMON BAG",
+            "cost": "0.87"
+        },
+        {
+            "name": "BANANAS ORGANIC",
+            "cost": "2.49"
+        },
+        {
+            "name": "CREAMY SALTED PEANUT BUTTER",
+            "cost": "1.69"
+        },
+        {
+            "name": "WHL WHT PITA BREAD",
+            "cost": "1.38"
+        },
+        {
+            "name": "GROCERY NON TAXABLE",
+            "cost": "0.69"
+        }
+    ],
+    "date_time": "06/28/2014 12:34PM",
+    "subtotal": "$38.68",
+    "tax_rate": "N/A",
+    "total_cost_after_tax": "$40.00"
+}

@@ -1,0 +1,86 @@
+{
+    "vendor_name": "TRADER JOE'S",
+    "vendor_address": "2001 Greenville Ave Dallas TX 75206",
+    "items": [
+        {
+            "name": "R-CARROTS SHREDDED 10 OZ",
+            "cost": "1.29"
+        },
+        {
+            "name": "R-CUCUMBERS PERSIAN 1 LB",
+            "cost": "1.99"
+        },
+        {
+            "name": "TOMATOES CRUSHED NO SALT",
+            "cost": "1.59"
+        },
+        {
+            "name": "ROMA TOMATOES WHOLE N SALT W/BASIL",
+            "cost": "1.59"
+        },
+        {
+            "name": "ORGANIC OLD FASHIONED OATMEAL",
+            "cost": "2.49"
+        },
+        {
+            "name": "MINI-PEARL TOMATOES",
+            "cost": "2.99"
+        },
+        {
+            "name": "PKG SHREDDED MOZZARELLA LITE T",
+            "cost": "3.99"
+        },
+        {
+            "name": "EGGS",
+            "cost": "3.79"
+        },
+        {
+            "name": "BANANAS GARBANZO",
+            "cost": "0.89"
+        },
+        {
+            "name": "SPROUTED BREAD",
+            "cost": "2.99"
+        },
+        {
+            "name": "A-AVOCADOS HAS 4 CT CON",
+            "cost": "3.99"
+        },
+        {
+            "name": "A-APPLE BAG JAZZ 2 LB",
+            "cost": "2.99"
+        },
+        {
+            "name": "A-APPLE BAG GALA X LK RED",
+            "cost": "0.99"
+        },
+        {
+            "name": "GROCERY NON TAXABLE",
+            "cost": "0.98"
+        },
+        {
+            "name": "A-PEPPER BELL ORANGE LG",
+            "cost": "0.69"
+        },
+        {
+            "name": "BANANAS ORGANIC",
+            "cost": "0.87"
+        },
+        {
+            "name": "CREAMY SALTED PEANUT BUTTER",
+            "cost": "2.49"
+        },
+        {
+            "name": "WWH WHT PITA BREAD",
+            "cost": "1.69"
+        },
+        {
+            "name": "GROCERY NON TAXABLE",
+            "cost": "1.38"
+        }
+    ],
+    "date_time": "06/28/2014 12:34PM",
+    "subtotal": "38.68",
+    "tax_rate": "N/A",
+    "total_cost": "40.00"
+}
